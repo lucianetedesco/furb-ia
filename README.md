@@ -1,2 +1,2 @@
-# furb-ia
-Trabalhos desenvolvidos na disciplina de Inteligência Artificial - FURB
+# Inteligência Artificial - FURB
+Trabalhos desenvolvidos na disciplina de Inteligência Artificial
